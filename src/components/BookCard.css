@@ -1,0 +1,23 @@
+.small-card-col {
+    flex: 0 0 25%; /* Ajusta el tamaño de la columna */
+    max-width: 25%;
+  }
+  
+  .small-card {
+    max-width: 150px; /* Ajusta el tamaño de la card */
+    margin: auto;
+  }
+  
+  .small-card-img {
+    height: auto;
+    max-height: 150px; /* Ajusta el tamaño de la imagen */
+  }
+  
+  .small-card-title {
+    font-size: 1rem; /* Ajusta el tamaño del título */
+  }
+  
+  .small-card-text {
+    font-size: 0.9rem; /* Ajusta el tamaño del texto */
+  }
+  

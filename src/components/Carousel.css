@@ -1,0 +1,17 @@
+.small-carousel-container {
+    max-width: 600px; /* Ajusta el tamaño del contenedor del carrusel */
+    margin: auto;
+  }
+  
+  .small-carousel .small-carousel-img {
+    max-height: 300px; /* Ajusta el tamaño de la imagen del carrusel */
+  }
+  
+  .small-carousel-title {
+    font-size: 1.2rem; /* Ajusta el tamaño del título */
+  }
+  
+  .small-carousel-text {
+    font-size: 1rem; /* Ajusta el tamaño del texto */
+  }
+  

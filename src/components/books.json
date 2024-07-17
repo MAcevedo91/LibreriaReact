@@ -6,7 +6,7 @@
   "Nombre": "Cien Años de Soledad",
   "Autor": "Gabriel García Márquez",
   "Editorial": "Editorial Sudamericana",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\8efb4b35-dd5c-4b58-a335-429f156a272b.jpeg\""
+  "Imagen": "2.jpeg"
 },
 {
   "_id": {
@@ -16,7 +16,7 @@
   "Nombre": "Don Quijote de la Mancha",
   "Autor": "Miguel de Cervantes",
   "Editorial": "Francisco de Robles",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\Don Quijote de la Mancha_ Miguel de Cervantes_.jpeg\""
+  "Imagen": "5.jpeg"
 },
 {
   "_id": {
@@ -26,7 +26,7 @@
   "Nombre": "La Sombra del Viento",
   "Autor": "Carlos Ruiz Zafón",
   "Editorial": "Planeta",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\La sombra del viento.jpeg\""
+  "Imagen": "8.jpeg"
 },
 {
   "_id": {
@@ -36,7 +36,7 @@
   "Nombre": "1984",
   "Autor": "George Orwell",
   "Editorial": "Secker & Warburg",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\40 best books to read before you die.jpeg\""
+  "Imagen": "3.jpeg"
 },
 {
   "_id": {
@@ -46,17 +46,7 @@
   "Nombre": "El Aleph",
   "Autor": "Jorge Luis Borges",
   "Editorial": "Emecé Editores",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\f24bea36-e4d0-492e-86f9-141dd861fc66.jpeg\""
-},
-{
-  "_id": {
-    "$oid": "6695f17af4309e3b0326cd52"
-  },
-  "id": 6,
-  "Nombre": "El Principito",
-  "Autor": "Antoine de Saint-Exupéry",
-  "Editorial": "Reynal & Hitchcock",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\Take Our Yearlong Spanish-Book Reading Challenge!.jpeg\""
+  "Imagen": "7.jpeg"
 },
 {
   "_id": {
@@ -66,7 +56,7 @@
   "Nombre": "Orgullo y Prejuicio",
   "Autor": "Jane Austen",
   "Editorial": "T. Egerton",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\2d3b7b31-7287-442e-96e0-5c184c0c9eb6.jpeg\""
+  "Imagen": "1.jpeg"
 },
 {
   "_id": {
@@ -76,7 +66,7 @@
   "Nombre": "Crimen y Castigo",
   "Autor": "Fiódor Dostoyevski",
   "Editorial": "The Russian Messenger",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\0353498a-7a7b-44cc-a0eb-4ba619389ab6.jpeg\""
+  "Imagen": "4.jpeg"
 },
 {
   "_id": {
@@ -86,7 +76,7 @@
   "Nombre": "En Busca del Tiempo Perdido",
   "Autor": "Marcel Proust",
   "Editorial": "Grasset y Gallimard",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\En Busca Del Tiempo Perdido.jpeg\""
+  "Imagen": "6.jpeg"
 },
 {
   "_id": {
@@ -96,5 +86,5 @@
   "Nombre": "Ulises",
   "Autor": "James Joyce",
   "Editorial": "Sylvia Beach",
-  "Imagen": "\"C:\\Users\\mrcla\\Projects\\libreriareact\\src\\media\\Los 15 mejores escritores del siglo XX y sus obras cumbres.jpeg\""
+  "Imagen": "9.jpeg"
 }]
